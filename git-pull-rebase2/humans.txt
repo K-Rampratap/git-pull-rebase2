@@ -1,6 +1,6 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-
+#Rampratap
 # TEAM
 
     <name> -- <role> -- <twitter>
@@ -10,6 +10,6 @@
     <name>
 
 # TECHNOLOGY COLOPHON
-
+    Angular JS
     HTML5, CSS3
     jQuery, Modernizr
